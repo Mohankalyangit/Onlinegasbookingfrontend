@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+/* .main{
+  text-align: center;
+  color:red;
+  background-color: yellow;
+  display: inline-block;
+  border: 2px solid black;
+  padding: 7px;
+  margin: 5px;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+} */
+
+.bg-danger{
+  background: linear-gradient(45deg, darkslategray, red);
+}
+.bg-warning{
+  background: linear-gradient(45deg, darkslategray, rgb(192, 152, 79));
+}
+.bg-success{
+  background: linear-gradient(45deg, darkslategray, limegreen);
+}
+.bg-info{
+  background: linear-gradient(45deg, darkslategray, cornflowerblue);
+}
+.bg-secondary{
+  background: linear-gradient(45deg, darkslategray, purple);
+}
+.bg-primary{
+  background: linear-gradient(45deg, darkslategray, rgb(35, 59, 107));
+}
+
+
+.wrapper
+{
+  height: 100%;
+  background-color: rgba(37, 19, 1, 0.6);
+  color: white;
+}
